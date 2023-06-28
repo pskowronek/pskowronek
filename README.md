@@ -1,7 +1,7 @@
 ### Hi! I'm Piotr Skowronek.
 *  *  *  *  *
 
-I'm software geek, tinkering with computers and programming since 90's when I was in priary school. Started with Pascal, then dived into ASM to later on explore pletora of different languages. Thru all the years Java is still the language of choice for more advanced projects, from time to time trying out other things or returning to low-level programming (like Arduino ASM). I’ve worn many hats in my tech career: engineer _aka_ individual contributor, technical lead, engineering manager. I'm also a devoted fan of open-source.
+I'm software geek, tinkering with computers and programming since 90's when I was in primary school. Started with Pascal, then dived into ASM to later on explore pletora of different languages. Thru all the years Java is still the language of choice for more advanced projects, from time to time trying out other things or returning to low-level programming (like Arduino ASM). I’ve worn many hats in my tech career: engineer _aka_ individual contributor, technical lead, engineering manager. I'm also a devoted fan of open-source.
 
 <!--
 **pskowronek/pskowronek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
